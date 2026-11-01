@@ -6,7 +6,9 @@ SkyCast is a modern, responsive weather dashboard built using HTML, CSS and Java
 
 ## 🌐 Live Demo
 
-[**Visit SkyCast Weather Dashboard**](https://ankekavya.github.io/weatherDashboard/)
+## 🌐 Live Demo
+
+[**Visit SkyCast Weather Dashboard**](https://ankekavya.github.io/skycast-weather-dashboard/)
 
 ## 📌 Project Overview
 
